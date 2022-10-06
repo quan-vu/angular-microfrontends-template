@@ -8,3 +8,4 @@ Feature
 
 - Manage and Deploy Microfrontend app independence based on its own repository.
 - Each Microfrontend app has its own CI pipeline.
+

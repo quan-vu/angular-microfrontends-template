@@ -1,0 +1,16 @@
+{
+    "apps": {
+        "shell": {
+            "port": 4200
+        },
+        "layout": {
+            "port": 4201
+        },
+        "dashboardPage": {
+            "port": 4202
+        },
+        "samplePage": {
+            "port": 4203
+        }
+    }
+}

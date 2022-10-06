@@ -1,0 +1,7 @@
+<nav>
+  <a *ngIf="isLogged" [routerLink]="['/']">Home</a>
+  <a [routerLink]="['/sample']" routerLinkActive="active-link">Sample</a>
+  <!-- <a *ngIf="!isLogged" [routerLink]="['/signup']" routerLinkActive="active-link">Sign Up</a> -->
+  <a [routerLink]="['/signup']" routerLinkActive="active-link">Sign Up</a>
+  <!-- <a [routerLink]="['/table']" routerLinkActive="active-link">Table</a> -->
+</nav>
